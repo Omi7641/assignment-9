@@ -1,0 +1,22 @@
+.navbar-brand img {
+  width: 120px;
+  height: 56px;
+
+  border-radius: 10px;
+}
+
+#searchBox {
+  width: 300px;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:link,
+.navbar .navbar-nav .nav-item .nav-link:visited {
+  color: black;
+  margin-right: 50px;
+  font-weight: bold;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover,
+.navbar .navbar-nav .nav-item .nav-link:active {
+  margin-right: 50px;
+  color: lightcoral;
+}

@@ -1,0 +1,36 @@
+.locationInfo {
+  color: black;
+}
+
+.locationInfo h1 {
+  font-family: "Bebas Neue", "cursive";
+  font-size: 100px;
+}
+
+.locationInfo p {
+  font-size: 20px;
+}
+
+.locationImg img {
+  height: 320px;
+  width: 200px;
+  margin: 10px;
+}
+
+.locationImg img:hover {
+  border: 3px solid tomato;
+  border-radius: 10px;
+}
+
+.locationImgName {
+  margin: 10px;
+  color: #fff;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
